@@ -81,6 +81,3 @@ Detailed documentation is available in the `/docs` folder:
 * Design Notes
 
 ---
-
-## 💡 Futu
-
