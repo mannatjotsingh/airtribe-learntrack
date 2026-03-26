@@ -61,7 +61,8 @@ javac   <filename.java>
 
 ### Step 2: Run
 
-java <filename without java extension only filename>
+java <filename>
+Note:-filename is without java extension only filename eg Main
 
 ## ⚙️ Design Highlights
 
