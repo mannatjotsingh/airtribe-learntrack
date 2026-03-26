@@ -54,15 +54,10 @@ The application is menu-driven and runs in the terminal. It demonstrates strong 
 
 ## ▶️ How to Run
 
-### Step 1: Compile
-
-
-javac   <filename.java>
-
-### Step 2: Run
-
-java <filename>
-Note:-filename is without java extension only filename eg Main
+Step 1: Compile
+javac -d . src/com/airtribe/learntrack/ui/Main.java
+Step 2: Run
+java com.airtribe.learntrack.ui.Main
 
 ## ⚙️ Design Highlights
 
