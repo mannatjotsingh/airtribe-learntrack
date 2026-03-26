@@ -27,4 +27,3 @@ System.out.println("Hello World");
 }
 }
 
-This confirms that Java is installed and working correctly.
